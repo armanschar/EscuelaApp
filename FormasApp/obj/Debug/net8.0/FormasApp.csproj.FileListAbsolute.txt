@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\FormasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\FormasApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\FormasApp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\FormasApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\bin\Debug\net8.0\FormasApp.exe
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\bin\Debug\net8.0\FormasApp.deps.json
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\bin\Debug\net8.0\FormasApp.runtimeconfig.json
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\bin\Debug\net8.0\FormasApp.dll
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\bin\Debug\net8.0\FormasApp.pdb
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\FormasApp.dll
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\refint\FormasApp.dll
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\FormasApp.pdb
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\FormasApp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\FormasApp\FormasApp\obj\Debug\net8.0\ref\FormasApp.dll
